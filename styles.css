@@ -1,0 +1,30 @@
+body {
+  background-color: #f0db4f;
+  text-align: center;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+body h1 {
+  color: #323330;
+  font-size: 300%;
+}
+
+ul {
+  list-style: none;
+}
+
+ul li {
+  margin: 0.5%;
+}
+
+a {
+  font-size: 140%;
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  color: #266bdf;
+  font-weight: bold;
+}
